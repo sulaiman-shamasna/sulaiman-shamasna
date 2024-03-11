@@ -23,3 +23,10 @@ Here are some ideas to get you started:
 |Title | Technologies|
 |--|--|
 | [Speech-Detection WebRTC](https://github.com/sulaiman-shamasna/speech-detection-WebRTC) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+
+<tr><td>
+
+|Title | Technologies|
+|--|--|
+| [openai-conversational-voice-chatbot](https://github.com/sulaiman-shamasna/openai-conversational-voice-chatbot) | LangChain |
+| [chat-with-pdf](https://github.com/sulaiman-shamasna/chat-with-pdf) | LangChain |
