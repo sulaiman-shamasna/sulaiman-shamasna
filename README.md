@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><th>Data Science - Speech Processing 
 <tr><td>
 
 |Title | Technologies|
