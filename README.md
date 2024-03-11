@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🖥️ Open-Source Projects
+<table>
+<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><td>
+
+|Title | Technologies|
+|--|--|
+| [Speech-Detection WebRTC](https://github.com/sulaiman-shamasna/speech-detection-WebRTC) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
