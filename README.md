@@ -61,3 +61,11 @@ Here are some ideas to get you started:
 [![text](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sulaiman.shamasna)
 
 
+**GitHub Stats**
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=sulaiman-shamasna&show_icons=true&count_private=false&hide_rank=false&include_all_commits=false&theme=default&custom_title=&hide_title=true&hide=" alt="stats_card"></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sulaiman-shamasna&theme=default&hide_border=false" alt="streak"></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=sulaiman-shamasna&no-bg=false&no-frame=false&rank=AA%2CSSS%2CAAA%2CS%2CB%2CSECRET%2CC%2CA%2CSS&theme=flat&row=3&column=6&margin-w=0&margin-h=0" alt="trophy"></p>
+
+
+
