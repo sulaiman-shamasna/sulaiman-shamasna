@@ -48,3 +48,6 @@ Here are some ideas to get you started:
 | [Chat with a PDF](https://github.com/sulaiman-shamasna/chat-with-pdf) | LangChain - Streamlit - OpenAI |
 | [Streamlit Chatbot (Website, YouTube, PDF)](https://github.com/sulaiman-shamasna/streamlit-chatbot-openai) | LangChain - Streamlit - OpenAI |
 
+
+# Profile : 
+[![text]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/sulaiman-shamasna/)
