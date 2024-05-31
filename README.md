@@ -49,8 +49,9 @@ Here are some ideas to get you started:
 | [Streamlit Chatbot (Website, YouTube, PDF)](https://github.com/sulaiman-shamasna/streamlit-chatbot-openai) | LangChain - Streamlit - OpenAI |
 
 # Tools & Technologies: 
-[![text](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white)]
-
+![text](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![text](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![text](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
 
 # Profiles: 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-shamasna/)
