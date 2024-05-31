@@ -48,8 +48,11 @@ Here are some ideas to get you started:
 | [Chat with a PDF](https://github.com/sulaiman-shamasna/chat-with-pdf) | LangChain - Streamlit - OpenAI |
 | [Streamlit Chatbot (Website, YouTube, PDF)](https://github.com/sulaiman-shamasna/streamlit-chatbot-openai) | LangChain - Streamlit - OpenAI |
 
+# Tools & Technologies: 
+[![text](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white)]
 
-# Profile : 
+
+# Profiles: 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-shamasna/)
 [![text](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sulaiman.shamasna)
 
