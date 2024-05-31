@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 |--|--|
 | [Speech-Detection WebRTC](https://github.com/sulaiman-shamasna/speech-detection-WebRTC) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 
+
+<table>
+<tr><th>Data Science - Speech Processing 
 <tr><td>
 
 |Title | Technologies|
