@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ### 🖥️ Open-Source Projects
 
 | Section | Title | Technologies |
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 |  | [Chat with a PDF](https://github.com/sulaiman-shamasna/chat-with-pdf) | LangChain - Streamlit - OpenAI |
 |  | [Streamlit Chatbot (Website, YouTube, PDF)](https://github.com/sulaiman-shamasna/streamlit-chatbot-openai) | LangChain - Streamlit - OpenAI |
 
-
+-->
 
 # Tools & Technologies: 
 ![text](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
