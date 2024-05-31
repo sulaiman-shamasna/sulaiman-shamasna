@@ -16,20 +16,45 @@ Here are some ideas to get you started:
 -->
 
 ### 🖥️ Open-Source Projects
-<table>
-<tr><th>Data Science - Speech Processing 
-<tr><td>
 
-|Title | Technologies|
-|--|--|
-| [Speech-Detection WebRTC](https://github.com/sulaiman-shamasna/speech-detection-WebRTC) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+<table style="width:100%">
+  <tr>
+    <th>Data Science - Speech Processing</th>
+  </tr>
+  <tr>
+    <td>
+      <table style="width:100%">
+        <tr>
+          <th>Title</th>
+          <th>Technologies</th>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/sulaiman-shamasna/speech-detection-WebRTC">Speech-Detection WebRTC</a></td>
+          <td><img src="https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow" alt="TF"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <th>Data Science - Speech Processing</th>
+  </tr>
+  <tr>
+    <td>
+      <table style="width:100%">
+        <tr>
+          <th>Title</th>
+          <th>Technologies</th>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/sulaiman-shamasna/openai-conversational-voice-chatbot">openai-conversational-voice-chatbot</a></td>
+          <td>LangChain</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/sulaiman-shamasna/chat-with-pdf">chat-with-pdf</a></td>
+          <td>LangChain</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-
-<table>
-<tr><th>Data Science - Speech Processing 
-<tr><td>
-
-|Title | Technologies|
-|--|--|
-| [openai-conversational-voice-chatbot](https://github.com/sulaiman-shamasna/openai-conversational-voice-chatbot) | LangChain |
-| [chat-with-pdf](https://github.com/sulaiman-shamasna/chat-with-pdf) | LangChain |
