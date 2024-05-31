@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 ### 🖥️ Open-Source Projects
 
-<table style="width:100%">
+<table>
   <tr>
     <th>Data Science - Speech Processing</th>
   </tr>
   <tr>
     <td>
-      <table style="width:100%">
+      <table style="width:100%; table-layout:fixed;">
         <tr>
-          <th>Title</th>
-          <th>Technologies</th>
+          <th style="width:50%">Title</th>
+          <th style="width:50%">Technologies</th>
         </tr>
         <tr>
           <td><a href="https://github.com/sulaiman-shamasna/speech-detection-WebRTC">Speech-Detection WebRTC</a></td>
@@ -40,10 +40,10 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>
-      <table style="width:100%">
+      <table style="width:100%; table-layout:fixed;">
         <tr>
-          <th>Title</th>
-          <th>Technologies</th>
+          <th style="width:50%">Title</th>
+          <th style="width:50%">Technologies</th>
         </tr>
         <tr>
           <td><a href="https://github.com/sulaiman-shamasna/openai-conversational-voice-chatbot">openai-conversational-voice-chatbot</a></td>
@@ -57,4 +57,5 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
 
