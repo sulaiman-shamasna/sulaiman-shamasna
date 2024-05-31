@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 |  | [Streamlit Chatbot (Website, YouTube, PDF)](https://github.com/sulaiman-shamasna/streamlit-chatbot-openai) | LangChain - Streamlit - OpenAI |
 
 
+
 # Tools & Technologies: 
 ![text](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![text](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
