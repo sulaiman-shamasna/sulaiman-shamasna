@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 # Profiles: 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-shamasna/)
 [![text](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sulaiman.shamasna)
-
+![rext]
 
 **GitHub Stats**
 
