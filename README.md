@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 ![text](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![text](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![text]()
+![text]()
 
 
 # Profiles: 
