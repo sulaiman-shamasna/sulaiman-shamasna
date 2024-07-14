@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 | Transformers and LLMs Fine-Tuning |
 | -------- |
 -->
-| Repository | Description | Tools |
+| Repository | Description |
 | --- | --- |
 | • [Neural Machine Translation with Transformers](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Transformers) | Description to be added |
 | • [Neural Machine Translation with Attention](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Attention) | Description to be added | 
