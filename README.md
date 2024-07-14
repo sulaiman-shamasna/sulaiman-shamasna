@@ -38,17 +38,14 @@ Here are some ideas to get you started:
 
 -->
 
-## Table 1
-
-| Transformers and LLMs Fine-tuning |
+| Transformers and LLMs Fine-Tuning |
 |--------|
-| [Neural Machine Translation with Transformers](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Transformers) <br> [Large Language and Vision Assistant](https://github.com/sulaiman-shamasna/Large-Language-and-Vision-Assistant-LLaVA) <br> [Fine-tuning Llama2 with LoRA](https://github.com/sulaiman-shamasna/Finetuning-Llama2-with-LoRA) |
+| [Neural Machine Translation with Transformers](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Transformers) <br> [Large Language and Vision Assistant](https://github.com/sulaiman-shamasna/Large-Language-and-Vision-Assistant-LLaVA) <br> [Fine-tuning Llama2 with LoRA](https://github.com/sulaiman-shamasna/Finetuning-Llama2-with-LoRA) <br> [Falcon7B Fine-Tuning](https://github.com/sulaiman-shamasna/Falcon-7B-Finetuning) <br> [Neural Machine Translation with Attention]([xy](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Attention)) <br> [Transformers](https://github.com/sulaiman-shamasna/Transformers)|
 
-## Table 2
 
-| Title  |
+| Retrieval Augmented Generation - RAG |
 |--------|
-| [Link 4](https://github.com/user/repo4) <br> [Link 5](https://github.com/user/repo5) <br> [Link 6](https://github.com/user/repo6) |
+| [Agentic RAG with LlamaIndex](https://github.com/sulaiman-shamasna/Agentic-RAG-with-LlamaIndex) <br> [link](xy) <br> [link](xy) |
 
 
 # Tools & Technologies: 
