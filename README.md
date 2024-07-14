@@ -38,6 +38,19 @@ Here are some ideas to get you started:
 
 -->
 
+## Table 1
+
+| Transformers and LLMs Fine-tuning |
+|--------|
+| [Neural Machine Translation with Transformers]([https://github.com/user/repo1](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Transformers)) <br> [Large Language and Vision Assistant]([https://github.com/user/repo2](https://github.com/sulaiman-shamasna/Large-Language-and-Vision-Assistant-LLaVA)) <br> [Fine-tuning Llama2 with LoRA]([https://github.com/user/repo3](https://github.com/sulaiman-shamasna/Finetuning-Llama2-with-LoRA)) |
+
+## Table 2
+
+| Title  |
+|--------|
+| [Link 4](https://github.com/user/repo4) <br> [Link 5](https://github.com/user/repo5) <br> [Link 6](https://github.com/user/repo6) |
+
+
 # Tools & Technologies: 
 ![text](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![text](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -59,9 +72,6 @@ Here are some ideas to get you started:
 
 
 **GitHub Stats**
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=sulaiman-shamasna&show_icons=true&count_private=false&hide_rank=false&include_all_commits=false&theme=default&custom_title=&hide_title=true&hide=" alt="stats_card"></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sulaiman-shamasna&theme=default&hide_border=false" alt="streak"></p>
 <p><img src="https://github-profile-trophy.vercel.app/?username=sulaiman-shamasna&no-bg=false&no-frame=false&rank=AA%2CSSS%2CAAA%2CS%2CB%2CSECRET%2CC%2CA%2CSS&theme=flat&row=3&column=6&margin-w=0&margin-h=0" alt="trophy"></p>
 
 
