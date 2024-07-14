@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 | Transformers and LLMs Fine-tuning |
 |--------|
-| [Neural Machine Translation with Transformers]([https://github.com/user/repo1](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Transformers)) <br> [Large Language and Vision Assistant]([https://github.com/user/repo2](https://github.com/sulaiman-shamasna/Large-Language-and-Vision-Assistant-LLaVA)) <br> [Fine-tuning Llama2 with LoRA]([https://github.com/user/repo3](https://github.com/sulaiman-shamasna/Finetuning-Llama2-with-LoRA)) |
+| [Neural Machine Translation with Transformers](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Transformers) <br> [Large Language and Vision Assistant](https://github.com/sulaiman-shamasna/Large-Language-and-Vision-Assistant-LLaVA) <br> [Fine-tuning Llama2 with LoRA](https://github.com/sulaiman-shamasna/Finetuning-Llama2-with-LoRA) |
 
 ## Table 2
 
