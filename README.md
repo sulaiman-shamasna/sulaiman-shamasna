@@ -40,12 +40,17 @@ Here are some ideas to get you started:
 
 | Transformers and LLMs Fine-Tuning |
 |--------|
-| [ • Neural Machine Translation with Transformers](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Transformers) <br> [ • Large Language and Vision Assistant](https://github.com/sulaiman-shamasna/Large-Language-and-Vision-Assistant-LLaVA) <br> [ • Fine-tuning Llama2 with LoRA](https://github.com/sulaiman-shamasna/Finetuning-Llama2-with-LoRA) <br> [ • Falcon7B Fine-Tuning](https://github.com/sulaiman-shamasna/Falcon-7B-Finetuning) <br> [ • Neural Machine Translation with Attention](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Attention) <br> • [Transformers](https://github.com/sulaiman-shamasna/Transformers)|
+| • [Neural Machine Translation with Transformers](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Transformers) <br> • [Large Language and Vision Assistant](https://github.com/sulaiman-shamasna/Large-Language-and-Vision-Assistant-LLaVA) <br> • [Fine-tuning Llama2 with LoRA](https://github.com/sulaiman-shamasna/Finetuning-Llama2-with-LoRA) <br> • [Falcon7B Fine-Tuning](https://github.com/sulaiman-shamasna/Falcon-7B-Finetuning) <br> • [Neural Machine Translation with Attention](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Attention) <br> • [Transformers](https://github.com/sulaiman-shamasna/Transformers)|
 
+| Transformers and LLMs Fine-Tuning |
+| Repository | Description |
+| --- | --- |
+| • [Neural Machine Translation with Transformers](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Transformers) | Description to be added |
+| • [Neural Machine Translation with Attention](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Attention) | Description to be added |
 
 | Retrieval Augmented Generation - RAG |
 |--------|
-| [ • Agentic RAG with LlamaIndex](https://github.com/sulaiman-shamasna/Agentic-RAG-with-LlamaIndex) <br> [link](xy) <br> [link](xy) |
+| • [Agentic RAG with LlamaIndex](https://github.com/sulaiman-shamasna/Agentic-RAG-with-LlamaIndex) <br> [link](xy) <br> [link](xy) |
 
 
 # Tools & Technologies: 
