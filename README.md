@@ -47,17 +47,17 @@ Here are some ideas to get you started:
 | Transformers and LLMs Fine-Tuning |
 | -------- |
 -->
-| Repository | Description |
+| Repository | Keywords |
 | --- | --- |
-| • [Neural Machine Translation with Transformers](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Transformers) |Neural Machine Translation • Transformers • Encoders • Decoders • Training Monitoring • Tensorboard|
-| • [Neural Machine Translation with Attention](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Attention) | Description to be added |
-| • [T5-Text-to-Text-Transfer-Transformer](https://github.com/sulaiman-shamasna/T5-Text-to-Text-Transfer-Transformer-) | Add Description |
-| • [Fine-tuning Llama2 with LoRA](https://github.com/sulaiman-shamasna/Finetuning-Llama2-with-LoRA) | Add Description |
-| • [LLaVA - Large Language and Vision Assistant](https://github.com/sulaiman-shamasna/Large-Language-and-Vision-Assistant-LLaVA) | Add Description |
-| • [Falcon7B Fine-Tuning](https://github.com/sulaiman-shamasna/Falcon-7B-Finetuning) | Add Description |
-| • [Weight-Decomposed-Low-Rank-Adaptation-DoRA](https://github.com/sulaiman-shamasna/Weight-Decomposed-Low-Rank-Adaptation-DoRA) | Add Description |
-| • [LoRA-Low-Rank-Adaptation-of-Large-Language-Models](https://github.com/sulaiman-shamasna/LoRA-Low-Rank-Adaptation-of-Large-Language-Models) | Add Description |
-| • [Transformers](https://github.com/sulaiman-shamasna/Transformers) | Add Description |
+| • [Neural Machine Translation with Transformers](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Transformers) |Neural Machine Translation • Transformers • Encoders • Decoders • Training Monitoring • TensorFlow • Tensorboard|
+| • [Neural Machine Translation with Attention](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Attention) | Neural Machine Translation • Encoder • Decoder • Attenstion Layers • Model Exporting |
+| • [T5-Text-to-Text-Transfer-Transformer](https://github.com/sulaiman-shamasna/T5-Text-to-Text-Transfer-Transformer-) | T5 Model • Finetuning • Docker Container • GPU • Transformers • Inference |
+| • [Fine-tuning Llama2 with LoRA](https://github.com/sulaiman-shamasna/Finetuning-Llama2-with-LoRA) | Llama2 7B • Finetuning • LoRA • PyTorch |
+| • [LLaVA - Large Language and Vision Assistant](https://github.com/sulaiman-shamasna/Large-Language-and-Vision-Assistant-LLaVA) | LLaVA • Vision Modeling • Multi-Modality |
+| • [Falcon7B Fine-Tuning](https://github.com/sulaiman-shamasna/Falcon-7B-Finetuning) | Falcon 7B • Finetuning • GPU • Inference • Question-Answering |
+| • [Weight-Decomposed-Low-Rank-Adaptation-DoRA](https://github.com/sulaiman-shamasna/Weight-Decomposed-Low-Rank-Adaptation-DoRA) | DoRA • LLMs • Finetuning |
+| • [LoRA-Low-Rank-Adaptation-of-Large-Language-Models](https://github.com/sulaiman-shamasna/LoRA-Low-Rank-Adaptation-of-Large-Language-Models) | DoRA • LLMs • Finetuning |
+| • [Transformers](https://github.com/sulaiman-shamasna/Transformers) | Neural Machine Translation • Named Entity Recognition • Falcon 7B • Llama2 7B • Hugguing Face • GPT • BERT • T5  |
 
 
 | Retrieval Augmented Generation - RAG |
