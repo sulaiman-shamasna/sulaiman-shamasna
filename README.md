@@ -53,8 +53,10 @@ Here are some ideas to get you started:
 | • [Neural Machine Translation with Attention](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Attention) | Description to be added |
 | • [T5-Text-to-Text-Transfer-Transformer](https://github.com/sulaiman-shamasna/T5-Text-to-Text-Transfer-Transformer-) | Add Description |
 | • [Fine-tuning Llama2 with LoRA](https://github.com/sulaiman-shamasna/Finetuning-Llama2-with-LoRA) | Add Description |
-| • [Large Language and Vision Assistant](https://github.com/sulaiman-shamasna/Large-Language-and-Vision-Assistant-LLaVA) | Add Description |
+| • [LLaVA - Large Language and Vision Assistant](https://github.com/sulaiman-shamasna/Large-Language-and-Vision-Assistant-LLaVA) | Add Description |
 | • [Falcon7B Fine-Tuning](https://github.com/sulaiman-shamasna/Falcon-7B-Finetuning) | Add Description |
+| • [Weight-Decomposed-Low-Rank-Adaptation-DoRA](https://github.com/sulaiman-shamasna/Weight-Decomposed-Low-Rank-Adaptation-DoRA) | Add Description |
+| • [LoRA-Low-Rank-Adaptation-of-Large-Language-Models](https://github.com/sulaiman-shamasna/LoRA-Low-Rank-Adaptation-of-Large-Language-Models) | Add Description |
 | • [Transformers](https://github.com/sulaiman-shamasna/Transformers) | Add Description |
 
 
