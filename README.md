@@ -56,14 +56,26 @@ Here are some ideas to get you started:
 | • [LLaVA - Large Language and Vision Assistant](https://github.com/sulaiman-shamasna/Large-Language-and-Vision-Assistant-LLaVA) | LLaVA • Vision Modeling • Multi-Modality |
 | • [Falcon7B Fine-Tuning](https://github.com/sulaiman-shamasna/Falcon-7B-Finetuning) | Falcon 7B • Finetuning • GPU • Inference • Question-Answering |
 | • [Weight-Decomposed-Low-Rank-Adaptation-DoRA](https://github.com/sulaiman-shamasna/Weight-Decomposed-Low-Rank-Adaptation-DoRA) | DoRA • LLMs • Finetuning |
-| • [LoRA-Low-Rank-Adaptation-of-Large-Language-Models](https://github.com/sulaiman-shamasna/LoRA-Low-Rank-Adaptation-of-Large-Language-Models) | DoRA • LLMs • Finetuning |
+| • [LoRA-Low-Rank-Adaptation-of-Large-Language-Models](https://github.com/sulaiman-shamasna/LoRA-Low-Rank-Adaptation-of-Large-Language-Models) | LoRA • LLMs • Finetuning |
 | • [Transformers](https://github.com/sulaiman-shamasna/Transformers) | Neural Machine Translation • Named Entity Recognition • Falcon 7B • Llama2 7B • Hugguing Face • GPT • BERT • T5  |
 
-
-| Retrieval Augmented Generation - RAG |
-|--------|
-| • [Agentic RAG with LlamaIndex](https://github.com/sulaiman-shamasna/Agentic-RAG-with-LlamaIndex) <br> [link](xy) <br> [link](xy) |
-
+<!--
+[| Retrieval Augmented Generation - RAG |](url)
+-->
+| Repository | Keywords |
+| --- | --- |
+| • [Agentic-RAG-with-LlamaIndex](https://github.com/sulaiman-shamasna/Agentic-RAG-with-LlamaIndex) |  •  |
+| • [LlamaIndex-chatbot-with-advanced-search-and-RAG](https://github.com/sulaiman-shamasna/LlamaIndex-chatbot-with-advanced-search-and-RAG) |  •  |
+| • [Advanced-Retrieval-for-AI-with-Chroma](https://github.com/sulaiman-shamasna/Advanced-Retrieval-for-AI-with-Chroma) |  •  |
+| • [Openai-Conversational-Voice-Chatbot](https://github.com/sulaiman-shamasna/openai-conversational-voice-chatbot) |  •  |
+| • [Multi-Stage RAG with Cross-Encoders](https://github.com/sulaiman-shamasna/multi-stage-rag-with-cross-encoders/blob/main/advanced_rag.ipynb) |  •  |
+| • [Summarize-and-Chat-with-YouTube-Video](https://github.com/sulaiman-shamasna/summarize-and-chat-with-youtube-video) |  •  |
+| • [LangChain-with-Gradio-and-Streaming-Feature](https://github.com/sulaiman-shamasna/langchain-with-gradio-and-streaming-feature) |  •  |
+| • [Chat with a PDF - LangChain and Streamlit](https://github.com/sulaiman-shamasna/chat-with-pdf) |  •  |
+| • [OpenAI Chatbot with Streamlit](https://github.com/sulaiman-shamasna/streamlit-chatbot-openai) |  •  |
+<!--
+| • []() |  •  |
+-->
 
 # Tools & Technologies: 
 ![text](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
