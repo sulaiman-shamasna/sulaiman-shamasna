@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 -->
 | Repository | Description |
 | --- | --- |
-| • [Neural Machine Translation with Transformers](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Transformers) | Description to be added |
+| • [Neural Machine Translation with Transformers](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Transformers) |Neural Machine Translation • Transformers • Encoders • Decoders • Training Monitoring • Tensorboard|
 | • [Neural Machine Translation with Attention](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Attention) | Description to be added |
 | • [T5-Text-to-Text-Transfer-Transformer](https://github.com/sulaiman-shamasna/T5-Text-to-Text-Transfer-Transformer-) | Add Description |
 | • [Fine-tuning Llama2 with LoRA](https://github.com/sulaiman-shamasna/Finetuning-Llama2-with-LoRA) | Add Description |
