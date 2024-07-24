@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 | • [Falcon7B Fine-Tuning](https://github.com/sulaiman-shamasna/Falcon-7B-Finetuning) | Falcon 7B • Finetuning • GPU • Inference • Question-Answering |
 | • [Weight-Decomposed-Low-Rank-Adaptation-DoRA](https://github.com/sulaiman-shamasna/Weight-Decomposed-Low-Rank-Adaptation-DoRA) | DoRA • LLMs • Finetuning |
 | • [LoRA-Low-Rank-Adaptation-of-Large-Language-Models](https://github.com/sulaiman-shamasna/LoRA-Low-Rank-Adaptation-of-Large-Language-Models) | LoRA • LLMs • Finetuning |
+| • [BERT-Fine-Tuning-with-LoRA](https://github.com/sulaiman-shamasna/BERT-Fine-Tuning-with-LoRA) | BERT • GPU • LoRA • LLMs • Finetuning |
+| • [LoRA-Low-Rank-Adaptation-of-Large-Language-Models](https://github.com/sulaiman-shamasna/LoRA-Low-Rank-Adaptation-of-Large-Language-Models) | LoRA • LLMs • Finetuning |
 | • [Transformers](https://github.com/sulaiman-shamasna/Transformers) | Neural Machine Translation • Named Entity Recognition • Falcon 7B • Llama2 7B • Hugguing Face • GPT • BERT • T5  |
 
 <!--
