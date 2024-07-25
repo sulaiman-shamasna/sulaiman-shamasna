@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 -->
 | Repository | Keywords |
 | --- | --- |
-| • [Agentic-RAG-with-LlamaIndex](https://github.com/sulaiman-shamasna/Agentic-RAG-with-LlamaIndex) |  •  |
+| • [Agentic-RAG-with-LlamaIndex](https://github.com/sulaiman-shamasna/Agentic-RAG-with-LlamaIndex) |  RAG • LlamaIndex • Agents • Chatbot|
 | • [LlamaIndex-chatbot-with-advanced-search-and-RAG](https://github.com/sulaiman-shamasna/LlamaIndex-chatbot-with-advanced-search-and-RAG) |  •  |
 | • [Advanced-Retrieval-for-AI-with-Chroma](https://github.com/sulaiman-shamasna/Advanced-Retrieval-for-AI-with-Chroma) |  •  |
 | • [Openai-Conversational-Voice-Chatbot](https://github.com/sulaiman-shamasna/openai-conversational-voice-chatbot) |  •  |
