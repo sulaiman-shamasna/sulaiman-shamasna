@@ -66,15 +66,15 @@ Here are some ideas to get you started:
 -->
 | Repository | Keywords |
 | --- | --- |
-| • [Agentic-RAG-with-LlamaIndex](https://github.com/sulaiman-shamasna/Agentic-RAG-with-LlamaIndex) |  RAG • LlamaIndex • Agents • Chatbot|
-| • [LlamaIndex-chatbot-with-advanced-search-and-RAG](https://github.com/sulaiman-shamasna/LlamaIndex-chatbot-with-advanced-search-and-RAG) |  •  |
-| • [Advanced-Retrieval-for-AI-with-Chroma](https://github.com/sulaiman-shamasna/Advanced-Retrieval-for-AI-with-Chroma) |  •  |
-| • [Openai-Conversational-Voice-Chatbot](https://github.com/sulaiman-shamasna/openai-conversational-voice-chatbot) |  •  |
-| • [Multi-Stage RAG with Cross-Encoders](https://github.com/sulaiman-shamasna/multi-stage-rag-with-cross-encoders/blob/main/advanced_rag.ipynb) |  •  |
-| • [Summarize-and-Chat-with-YouTube-Video](https://github.com/sulaiman-shamasna/summarize-and-chat-with-youtube-video) |  •  |
-| • [LangChain-with-Gradio-and-Streaming-Feature](https://github.com/sulaiman-shamasna/langchain-with-gradio-and-streaming-feature) |  •  |
-| • [Chat with a PDF - LangChain and Streamlit](https://github.com/sulaiman-shamasna/chat-with-pdf) |  •  |
-| • [OpenAI Chatbot with Streamlit](https://github.com/sulaiman-shamasna/streamlit-chatbot-openai) |  •  |
+| • [Agentic-RAG-with-LlamaIndex](https://github.com/sulaiman-shamasna/Agentic-RAG-with-LlamaIndex) |  RAG • LlamaIndex • Agents • Chatbot |
+| • [LlamaIndex-chatbot-with-advanced-search-and-RAG](https://github.com/sulaiman-shamasna/LlamaIndex-chatbot-with-advanced-search-and-RAG) |  RAG • LlamaIndex • OpenAI • Chatbot |
+| • [Advanced-Retrieval-for-AI-with-Chroma](https://github.com/sulaiman-shamasna/Advanced-Retrieval-for-AI-with-Chroma) | RAG • Chroma • OpenAI • Chatbot |
+| • [Openai-Conversational-Voice-Chatbot](https://github.com/sulaiman-shamasna/openai-conversational-voice-chatbot) | Chatbot • OpenAI • RAG • TTS • STT • Streamlit |
+| • [Multi-Stage RAG with Cross-Encoders](https://github.com/sulaiman-shamasna/multi-stage-rag-with-cross-encoders/blob/main/advanced_rag.ipynb) | RAG • Chroma • OpenAI |
+| • [Summarize-and-Chat-with-YouTube-Video](https://github.com/sulaiman-shamasna/summarize-and-chat-with-youtube-video) |  RAG • OpenAI • Chatbot • LangChain • Streamlit |
+| • [LangChain-with-Gradio-and-Streaming-Feature](https://github.com/sulaiman-shamasna/langchain-with-gradio-and-streaming-feature) |  LangChain • RAG • Gradio • Chatbot |
+| • [Chat with a PDF - LangChain and Streamlit](https://github.com/sulaiman-shamasna/chat-with-pdf) | LangChain • OpenAI • Chatbot |
+| • [OpenAI Chatbot with Streamlit](https://github.com/sulaiman-shamasna/streamlit-chatbot-openai) | Chatbot • OpenAI • RAG • Streamlit |
 <!--
 | • []() |  •  |
 -->
