@@ -81,11 +81,11 @@ Here are some ideas to get you started:
 
 | Repository | Keywords |
 | --- | --- |
-| • []() |  RAG •  •  •  |
-| • []() |  RAG •  •  •  |
-| • []() |  RAG •  •  •  |
-| • []() |  RAG •  •  •  |
-| • []() |  RAG •  •  •  |
+| • [Semantic Chunking](https://github.com/sulaiman-shamasna/RAG-Techniques/blob/main/semantic_chunking.ipynb) |  RAG •  •  •  |
+| • [Adaptive Retrieval](https://github.com/sulaiman-shamasna/RAG-Techniques/blob/main/adaptive_retrieval.ipynb) |  RAG •  •  •  |
+| • [Contextual Compression](https://github.com/sulaiman-shamasna/RAG-Techniques/blob/main/contextual_compression.ipynb) |  RAG •  •  •  |
+| • [Document Augmentation](https://github.com/sulaiman-shamasna/RAG-Techniques/blob/main/document_augmentation.ipynb) |  RAG •  •  •  |
+| • [Fusion Retrieval](https://github.com/sulaiman-shamasna/RAG-Techniques/blob/main/fusion_retrieval.ipynb) |  RAG •  •  •  |
 | • []() |  RAG •  •  •  |
 | • []() |  RAG •  •  •  |
 <!--
