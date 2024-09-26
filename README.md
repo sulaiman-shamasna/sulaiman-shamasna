@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 | Repository | Keywords |
 | --- | --- |
 | • [Adaptive Retrieval](https://github.com/sulaiman-shamasna/RAG-Techniques/blob/main/adaptive_retrieval.ipynb) |  RAG • OpenAI • Vector DB • FAISS |
-| • [Contextual Compression](https://github.com/sulaiman-shamasna/RAG-Techniques/blob/main/contextual_compression.ipynb) |  RAG •  •  •  |
+| • [Contextual Compression](https://github.com/sulaiman-shamasna/RAG-Techniques/blob/main/contextual_compression.ipynb) |  RAG • LangChain |
 | • [Document Augmentation](https://github.com/sulaiman-shamasna/RAG-Techniques/blob/main/document_augmentation.ipynb) |  RAG •  •  •  |
 | • [Fusion Retrieval](https://github.com/sulaiman-shamasna/RAG-Techniques/blob/main/fusion_retrieval.ipynb) |  RAG •  •  •  |
 | • [Graph RAG](https://github.com/sulaiman-shamasna/RAG-Techniques/blob/main/graph_rag.ipynb) |  RAG •  •  •  |
