@@ -2,11 +2,8 @@
 
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Technologies🧑‍💻</h3></summary>
-  </ul>
-</div>
+<h3 align="center">🧑‍💻Frequently Used Technologies🧑‍💻</h3>
+
 <!--tech stack icons by skillicons.dev-->
 <p align="center">
 <a href="https://deri.my.id/api/icons?i=python,tensorflow,azure,anaconda,pycharm,mysql,cpp,pytorch,gcp,git,vscode,rust&perline=6">
