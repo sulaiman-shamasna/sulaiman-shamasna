@@ -1,5 +1,13 @@
-![](/assets/images/grad.gif)
 
+### &nbsp; 🕵🏻 About Me
+
+&nbsp;&nbsp; An experienced AI engineer with expertise in generative AI and large language models - LLMs. Armed with a demonstrated ability in guiding complex AI projects from inception to implementation, delivering scalable, secure, and efficient solutions. Furthermore, building, managing, and deploying AI solutions whose responsibilities include participating in all phases of AI solutions development, including: Requirements definition and design • Development • Deployment • Integration • Maintainance • Performance tuning • Monitoring.<br><br>
+
+<!-- <br>&nbsp;&nbsp;  -->
+
+<hr/>
+
+![](/assets/images/grad.gif)
 
 <!--h1 without bottom border-->
 <h3 align="center">🧑‍💻Frequently Used Technologies🧑‍💻</h3>
