@@ -17,26 +17,22 @@
 
 <!-- tech stack icons by skillicons.dev -->
 <!-- <p align="center">
-<a href="https://deri.my.id/api/icons?i=
-python,tensorflow,azure,gitlab,pycharm,docker,
-cpp,pytorch,gcp,github,vscode,kubernetes,
-c,mysql,aws,git,anaconda,matlab&perline=6">
-<img src="https://deri.my.id/api/icons?i=
-python,tensorflow,azure,gitlab,pycharm,docker,
-cpp,pytorch,gcp,github,vscode,kubernetes,
-c,mysql,aws,git,anaconda,matlab&perline=6" />
+<a href="https://deri.my.id/api/icons?i=python,tensorflow,azure,gitlab,pycharm,docker,cpp,pytorch,gcp,github,vscode,kubernetes,c,mysql,aws,git,anaconda,matlab&perline=6">
+<img src="https://deri.my.id/api/icons?i=python,tensorflow,azure,gitlab,pycharm,docker,cpp,pytorch,gcp,github,vscode,kubernetes,c,mysql,aws,git,anaconda,matlab&perline=6" />
 </a>
 </p> -->
 
+<h3 align="center">🧑‍💻Frequently Used Technologies🧑‍💻</h3>
+
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
+    <!-- <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary> -->
   </ul>
 </div>
 <!--tech stack icons by skillicons.dev-->
 <p align="center">
-<a href="https://deri.my.id/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git&perline=6">
-<img src="https://deri.my.id/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git&perline=6" />
+<a href="https://deri.my.id/api/icons?i=python,tensorflow,azure,gitlab,pycharm,docker,cpp,pytorch,gcp,github,vscode,kubernetes,c,mysql,aws,git,anaconda,matlab&perline=6">
+<img src="https://deri.my.id/api/icons?i=python,tensorflow,azure,gitlab,pycharm,docker,cpp,pytorch,gcp,github,vscode,kubernetes,c,mysql,aws,git,anaconda,matlab&perline=6" />
 </a>
 </p>
 
