@@ -1,6 +1,48 @@
 ![](/assets/images/grad.gif)
 
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Technologies🧑‍💻</h3></summary>
+  </ul>
+</div>
+<!--tech stack icons by skillicons.dev-->
+<p align="center">
+<a href="https://deri.my.id/api/icons?i=python,tensorflow,azure,anaconda,pycharm,mysql,cpp,pytorch,gcp,git,vscode,rust&perline=6">
+<img src="https://deri.my.id/api/icons?i=python,tensorflow,azure,anaconda,pycharm,mysql,cpp,pytorch,gcp,git,vscode,rust&perline=6" />
+</a>
+</p>
+
+![](/assets/images/grad.gif)
+
+<h3 align="center">🔥GitHub Statistics🔥</h3>
+
+<!-- custom streak stats: https://git.io/streak-stats -->
+<p align="center">
+  <picture>
+    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=sulaiman-shamasna&hide_border=true&theme=nightowl" />
+</p>
+<p align="center">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sulaiman-shamasna&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaiman-shamasna&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+</p>
+
+![](/assets/images/grad.gif)
+
+<!-- Connect with me -->
+<h3 align="center">🤝Connect with Me🤝</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-shamasna/)
+[![image](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sulaiman.shamasna)
+
+</div>
+
+![](/assets/images/grad.gif)
+
+
+
 
 <!-- ### Hi there! 👋 -->
 
