@@ -8,7 +8,7 @@
 <!-- ![Snake animation](https://github.com/sulaiman-shamasna/sulaiman-shamasna/blob/output/github-snake.svg)
  -->
 
-<hr/>
+<!-- <hr/> -->
 
 ![](/assets/images/grad.gif)
 
