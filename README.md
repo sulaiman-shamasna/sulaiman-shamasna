@@ -1,4 +1,8 @@
-### Hi there! 👋
+![](/assets/images/grad.gif)
+
+
+
+<!-- ### Hi there! 👋 -->
 
 <!--
 **sulaiman-shamasna/sulaiman-shamasna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,7 +51,7 @@ Here are some ideas to get you started:
 | Transformers and LLMs Fine-Tuning |
 | -------- |
 -->
-| Repository | Keywords |
+<!-- | Repository | Keywords |
 | --- | --- |
 | • [Neural Machine Translation with Transformers](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Transformers) |Neural Machine Translation • Transformers • Encoders • Decoders • Training Monitoring • TensorFlow • Tensorboard|
 | • [Neural Machine Translation with Attention](https://github.com/sulaiman-shamasna/Neural-Machine-Translation-with-Attention) | Neural Machine Translation • Encoder • Decoder • Attenstion Layers • Model Exporting |
@@ -59,12 +63,12 @@ Here are some ideas to get you started:
 | • [Low Rank Adaptation (LoRA) for LLMs](https://github.com/sulaiman-shamasna/LoRA-Low-Rank-Adaptation-of-Large-Language-Models) | LoRA • LLMs • Finetuning |
 | • [BERT-Fine-Tuning-with-LoRA](https://github.com/sulaiman-shamasna/BERT-Fine-Tuning-with-LoRA) | BERT • GPU • LoRA • LLMs • Finetuning |
 | • [Gemma-2B-FineTuning](https://github.com/sulaiman-shamasna/Gemma-2B-FineTuning) | Gemma • LLMs • Finetuning |
-| • [Transformers](https://github.com/sulaiman-shamasna/Transformers) | Neural Machine Translation • Named Entity Recognition • Falcon 7B • Llama2 7B • Hugguing Face • GPT • BERT • T5  |
+| • [Transformers](https://github.com/sulaiman-shamasna/Transformers) | Neural Machine Translation • Named Entity Recognition • Falcon 7B • Llama2 7B • Hugguing Face • GPT • BERT • T5  | -->
 
 <!--
 [| Retrieval Augmented Generation - RAG |](url)
 -->
-| Repository | Keywords |
+<!-- | Repository | Keywords |
 | --- | --- |
 | • [Agentic-RAG-with-LlamaIndex](https://github.com/sulaiman-shamasna/Agentic-RAG-with-LlamaIndex) |  RAG • LlamaIndex • Agents • Chatbot |
 | • [LlamaIndex-chatbot-with-advanced-search-and-RAG](https://github.com/sulaiman-shamasna/LlamaIndex-chatbot-with-advanced-search-and-RAG) |  RAG • LlamaIndex • OpenAI • Chatbot |
@@ -75,9 +79,7 @@ Here are some ideas to get you started:
 | • [LangChain-with-Gradio-and-Streaming-Feature](https://github.com/sulaiman-shamasna/langchain-with-gradio-and-streaming-feature) |  LangChain • RAG • Gradio • Chatbot |
 | • [Chat with a PDF - LangChain and Streamlit](https://github.com/sulaiman-shamasna/chat-with-pdf) | LangChain • OpenAI • Chatbot |
 | • [OpenAI Chatbot with Streamlit](https://github.com/sulaiman-shamasna/streamlit-chatbot-openai) | Chatbot • OpenAI • RAG • Streamlit |
-<!--
-| • []() |  •  |
--->
+
 
 | Repository | Keywords |
 | --- | --- |
@@ -88,9 +90,7 @@ Here are some ideas to get you started:
 | • [Graph RAG](https://github.com/sulaiman-shamasna/RAG-Techniques/blob/main/graph_rag.ipynb) |  RAG •  •  •  |
 | • [Hirarchical Indices](https://github.com/sulaiman-shamasna/RAG-Techniques/blob/main/hierarchical_indices.ipynb) |  RAG •  •  •  |
 | • [Semantic Chunking](https://github.com/sulaiman-shamasna/RAG-Techniques/blob/main/semantic_chunking.ipynb) |  RAG •  •  •  |
-<!--
-| • []() |  •  |
--->
+
 
 # Tools & Technologies: 
 ![text](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 
 
 **GitHub Stats**
-<p><img src="https://github-profile-trophy.vercel.app/?username=sulaiman-shamasna&no-bg=false&no-frame=false&rank=AA%2CSSS%2CAAA%2CS%2CB%2CSECRET%2CC%2CA%2CSS&theme=flat&row=3&column=6&margin-w=0&margin-h=0" alt="trophy"></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=sulaiman-shamasna&no-bg=false&no-frame=false&rank=AA%2CSSS%2CAAA%2CS%2CB%2CSECRET%2CC%2CA%2CSS&theme=flat&row=3&column=6&margin-w=0&margin-h=0" alt="trophy"></p> -->
 
 
 
