@@ -18,9 +18,9 @@
 <!--tech stack icons by skillicons.dev-->
 <p align="center">
 <a href="https://deri.my.id/api/icons?i=
-python,tensorflow,azure,anaconda,pycharm,mysql,
-cpp,pytorch,gcp,git,vscode,rust
-&perline=6">
+python,tensorflow,azure,gitlab,pycharm,docker,
+cpp,pytorch,gcp,github,vscode,kubernetes,
+c,mysql,aws,git,anaconda,matlab&perline=6">
 <img src="https://deri.my.id/api/icons?i=
 python,tensorflow,azure,gitlab,pycharm,docker,
 cpp,pytorch,gcp,github,vscode,kubernetes,
