@@ -1,4 +1,6 @@
 
+![](/assets/images/grad.gif)
+
 ### &nbsp; 🕵🏻 About Me
 
 &nbsp;&nbsp; An experienced AI engineer with expertise in generative AI and large language models - LLMs. Armed with a demonstrated ability in guiding complex AI projects from inception to implementation, delivering scalable, secure, and efficient solutions. Furthermore, building, managing, and deploying AI solutions whose responsibilities include participating in all phases of AI solutions development, including: Requirements definition and design • Development • Deployment • Integration • Maintainance • Performance tuning • Monitoring.<br><br>
@@ -17,8 +19,8 @@
 
 <!-- tech stack icons by skillicons.dev -->
 <!-- <p align="center">
-<a href="https://deri.my.id/api/icons?i=python,tensorflow,azure,gitlab,pycharm,docker,cpp,pytorch,gcp,github,vscode,kubernetes,c,mysql,aws,git,anaconda,matlab&perline=6">
-<img src="https://deri.my.id/api/icons?i=python,tensorflow,azure,gitlab,pycharm,docker,cpp,pytorch,gcp,github,vscode,kubernetes,c,mysql,aws,git,anaconda,matlab&perline=6" />
+<a href="https://deri.my.id/api/icons?i=python,tensorflow,azure,gitlab,pycharm,docker,cpp,pytorch,gcp,github,vscode,kubernetes,c,fastapi,aws,git,anaconda,matlab&perline=6">
+<img src="https://deri.my.id/api/icons?i=python,tensorflow,azure,gitlab,pycharm,docker,cpp,pytorch,gcp,github,vscode,kubernetes,c,fastapi,aws,git,anaconda,matlab&perline=6" />
 </a>
 </p> -->
 
