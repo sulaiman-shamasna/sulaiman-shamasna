@@ -5,11 +5,12 @@
 
 &nbsp;&nbsp; An experienced AI engineer with expertise in generative AI and large language models - LLMs. Armed with a demonstrated ability in guiding complex AI projects from inception to implementation, delivering scalable, secure, and efficient solutions. Furthermore, building, managing, and deploying AI solutions whose responsibilities include participating in all phases of AI solutions development, including: Requirements definition and design • Development • Deployment • Integration • Maintainance • Performance tuning • Monitoring.<br><br>
 
+![](/assets/images/grad.gif)
+
 <!-- <br>&nbsp;&nbsp;  -->
 
-<!-- ![Snake animation](https://github.com/sulaiman-shamasna/sulaiman-shamasna/blob/output/github-snake.svg)
- -->
-
+![Snake animation](https://github.com/sulaiman-shamasna/sulaiman-shamasna/blob/output/github-snake.svg)
+ 
 <!-- <hr/> -->
 
 ![](/assets/images/grad.gif)
