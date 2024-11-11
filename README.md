@@ -9,7 +9,7 @@
 
 <!-- <br>&nbsp;&nbsp;  -->
 
-![Snake animation](https://github.com/sulaiman-shamasna/sulaiman-shamasna/blob/output/github-snake.svg)
+![Snake animation](https://github.com/sulaiman-shamasna/sulaiman-shamasna/blob/gh-pages/output/github-snake-dark.svg)
  
 <!-- <hr/> -->
 
